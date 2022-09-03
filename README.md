@@ -1,7 +1,7 @@
 
 # Challange Ignite Feed
 
-<h3><a href="https://ignitefedd.netlify.app/">Onde me encontrar? Vem comigo!</a></h3>
+<h3><a href="https://ignitefeed-ts.netlify.app/">Onde me encontrar? Vem comigo!</a></h3>
 
 ## Descrição
 <p align="center"> ignite Feed é uma plataforma onde você pode postar um breve texto com o algum das suas melhores idéias, nele outras pessoas vão poder aplaudir sua idéias para dar aquele "gás" em você e até deixar comentários que vão contribuir no seu crescimento pessoal e do seu projeto.<p>
